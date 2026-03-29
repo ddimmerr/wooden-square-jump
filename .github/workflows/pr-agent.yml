@@ -1,4 +1,4 @@
-ame: PR Agent
+Name: PR Agent
 
 on:
   pull_request:
