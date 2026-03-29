@@ -4,4 +4,4 @@ fallback_models = ["qwen/qwen3-coder:free"]
 
 [pr_reviewer]
 num_code_suggestions = 1
-require_score_review = false
+require_score_review = true
